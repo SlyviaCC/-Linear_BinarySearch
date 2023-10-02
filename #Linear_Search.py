@@ -10,3 +10,4 @@ if list1_index == -1:
     print("The number you are looking for is not in the list！")
 else:
     print("{}the record the subscript of the number：{}.".format(num,list1_index))
+# Use circular linear lookup  
